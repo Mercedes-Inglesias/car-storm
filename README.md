@@ -8,7 +8,7 @@ The 2019 Mercedes-Benz S-Class ranked *#1 in Super Luxury Cars*. Currently the M
 
 ~~The 2019 Mercedes-Benz S-Class~~ is one of our highest-rated super luxury cars and one of the finest cars on the market. It's powerful, smooth, and supremely luxurious.
 
-__Pros|Cons__
+Pros|Cons
 ---|---:
 World-class interior|Small trunk in coupe and convertible models
 Unbelievably comfortable seats and ride|
