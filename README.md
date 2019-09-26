@@ -2,4 +2,4 @@
 luxurious babies
 ## 2019 Mercedes-Benz S-Class
 ![](https://cars.usnews.com/cars-trucks/mercedes-benz/s-class/2019/photos-exterior.jpg)
-![](https://www.google.ru/search?q=14)+2019+Mercedes-Benz+C-Class+-+USN+Interior+Score:+8.5/10&newwindow=1&biw=1600&bih=1083&tbm=isch&source=iu&ictx=1&fir=OavxFtSnZBp5AM%253A%252Cma8c47bpX8xtaM%252C_&vet=1&usg=AI4_-kQDFD8k85q3vfW8NiWxKIf4BifLxQ&sa=X&ved=2ahUKEwjX0_bSp-_kAhUKCZoKHThuBYYQ9QEwFXoECAgQDA#imgrc=OavxFtSnZBp5AM:jpg)
+![](https://www.google.ru/url?sa=i&rct=j&q=&esrc=s&source=images&cd=&cad=rja&uact=8&ved=2ahUKEwjhuf-5rO_kAhXowsQBHQt2A4sQjRx6BAgBEAQ&url=%2Furl%3Fsa%3Di%26rct%3Dj%26q%3D%26esrc%3Ds%26source%3Dimages%26cd%3D%26ved%3D%26url%3Dhttps%253A%252F%252Fwww.msn.com%252Fen-us%252Fautos%252Fmercedes-benz%252Fs-class%252F2019%252Fphotos-exterior%252Fs-560-4matic-convertible%252Fsd-BBOWFEp%26psig%3DAOvVaw0sXDwB3QEMe82IalSea4j6%26ust%3D1569616794712374&psig=AOvVaw0sXDwB3QEMe82IalSea4j6&ust=1569616794712374)
