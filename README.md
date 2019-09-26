@@ -1,5 +1,17 @@
 # car-storm
 luxurious babies
+
+1. Rolls -Royce Phantom VIII
+2. Mercedes S Class
+3. Range Rover
+4. Bentley Mulsanne
+5. Porsche Panamera
+6. BMW 7 Series
+7. Audi A8
+8. Bentley Bentayga
+9. Jaguar XJ
+10. Lexus LS
+
 ## 2019 Mercedes-Benz S-Class
 ![](https://cars.usnews.com/cars-trucks/mercedes-benz/s-class/2019/photos-exterior.jpg)
 ![](https://carbuzz.com/cars/mercedes-benz/s-class-cabriolet.jpg)
@@ -14,3 +26,6 @@ World-class interior|Small trunk in coupe and convertible models
 Unbelievably comfortable seats and ride|
 Extravagant features list|
 Powerful engines|
+
+__How Much Does the Mercedes-Benz S-Class Cost?__
+Even by super luxury car standards, the S-Class is expensive. Its base price of around $91,000 is more than almost every competitor. Compared to the higher S-Class trims, that's downright cheap. For example, the most expensive model in the lineup is the AMG S 65 cabriolet, which starts a few lattes north of $250,000.
