@@ -12,7 +12,7 @@ luxurious babies
 9. Jaguar XJ
 10. Lexus LS
 
-## 2019 Mercedes-Benz S-Class
+## 2019 Mercedes-Benz S-Class 
 ![](https://cars.usnews.com/cars-trucks/mercedes-benz/s-class/2019/photos-exterior.jpg)
 ![](https://carbuzz.com/cars/mercedes-benz/s-class-cabriolet.jpg)
 
