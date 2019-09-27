@@ -13,8 +13,8 @@ luxurious babies
 10. Lexus LS
 
 ## 2019 Mercedes-Benz S-Class 
-![](https://cars.usnews.com/cars-trucks/mercedes-benz/s-class/2019/photos-exterior) 
-![](https://carbuzz.com/cars/mercedes-benz/s-class-cabriolet.jpg)
+![Mercedes](https://cars.usnews.com/cars-trucks/mercedes-benz/s-class/2019/photos-exterior) 
+![Mercedes](https://carbuzz.com/cars/mercedes-benz/s-class-cabriolet)
 
 The 2019 Mercedes-Benz S-Class ranked *#1 in Super Luxury Cars*. Currently the Mercedes-Benz S-Class has a score of __9.1__ out of __10__ which is based on our evaluation of 40 pieces of research and data elements using various sources.
 
