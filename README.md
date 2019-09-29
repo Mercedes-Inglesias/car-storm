@@ -3,6 +3,7 @@ luxurious babies
 
 1. Rolls -Royce Phantom VIII
 2. Mercedes S Class
+![pictures](
 3. Range Rover
 4. Bentley Mulsanne
 5. Porsche Panamera
@@ -15,10 +16,8 @@ luxurious babies
 *Let's take a look at one of my favourites :3* 
 
 ## 2019 Mercedes-Benz S-Class 
-![pictures](https://github.com/Mercedes-Inglesias/car-storm/raw/master/www.pinterest.com/pin/614037730426114349/image.png)
-![picture](https://www.pinterest.com/pin/614037730426114349/) 
- 
-![pictures](https://github.com/Mercedes-Inglesias/car-storm/raw/master/2019-mercedes-benz-s450-review.jpg /image.png)
+
+![pictures](https://github.com/Mercedes-Inglesias/car-storm/raw/master/2019-mercedes-benz-s450-review.jpg)
 
 ![pictures](https://github.com/Mercedes-Inglesias/car-storm/raw/master/2019-mercedes-benz-s450-review.jpg)
 
