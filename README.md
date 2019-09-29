@@ -16,7 +16,7 @@ luxurious babies
 
 ## 2019 Mercedes-Benz S-Class 
 ![alt text](https://github.com/Mercedes-Inglesias/{repository}/raw/{branch}/{path}/image.png)
-![picture](https://www.pinterest.com/pin/614037730426114349/image.png) 
+![picture](https://www.pinterest.com/pin/614037730426114349/) 
  
 
 
