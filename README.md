@@ -24,9 +24,30 @@ The 2019 Mercedes-Benz S-Class ranked *#1 in Super Luxury Cars*. Currently the M
 
 ~~The 2019 Mercedes-Benz S-Class~~ is one of our highest-rated super luxury cars and one of the finest cars on the market. It's powerful, smooth, and supremely luxurious.
 
-The interior
-![int](
+### Exterior
+KEYLESS-GO Comfort package 
+9G-TRONIC transmission with steering column gear selector, steering wheel gearshift paddles (Direct Select) and SPEEDTRONIC cruise control 
+19" AMG alloy wheels – 5-twin-spoke design 
+Active Parking Assist including PARKTRONIC and reversing camera 
+AMG bodystyling – front apron, rear apron and side skirts Closing aid for doors1 
+Heat-insulating dark-tinted glass 
+MAGIC VISION CONTROL– adaptive windscreen wiper system Metallic paint 
+MULTIBEAM LED with ULTRA RANGE Highbeam
 
+The interior
+![int](https://github.com/Mercedes-Inglesias/car-storm/blob/master/S-Class-Saloon-5.jpg)
+
+### Interior
+Front Seat Memory package 
+3-spoke multifunction steering wheel in nappa leather with touch control steering wheel pads 
+Additional four-way electric lumbar support for front passenger seat 
+Ambient lighting – choice of 64 colour settings 
+Burmester surround sound system1 
+COMAND Online system with 12.3-inch media display 
+Dual-bonded widescreen cockpit display (12.3-inch) 
+Front seats, front head restraints, steering column and exterior door mirrors – electrically adjustable with memory 
+Smartphone integration with Android Auto and Apple CarPlayTM 
+Wireless phone charging – front
 
 Pros|Cons
 ---|---:
