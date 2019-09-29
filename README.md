@@ -34,7 +34,7 @@ The 2019 Mercedes-Benz S-Class ranked *#1 in Super Luxury Cars*. Currently the M
 * MAGIC VISION CONTROL– adaptive windscreen wiper system Metallic paint 
 * MULTIBEAM LED with ULTRA RANGE Highbeam
 
-The interior
+`The interior`
 ![int](https://github.com/Mercedes-Inglesias/car-storm/blob/master/S-Class-Saloon-5.jpg)
 
 ### Interior
@@ -60,6 +60,7 @@ Powerful engines|
 ![pictures](https://github.com/Mercedes-Inglesias/car-storm/blob/master/untitled.png) 
 
 __How Much Does the Mercedes-Benz S-Class Cost?__
+
 Even by super luxury car standards, the S-Class is expensive. Its __base price of around $91,000__ is more than almost every competitor. Compared to the higher S-Class trims, that's downright cheap. For example, the most expensive model in the lineup is the AMG S 65 cabriolet, which starts a few lattes north of $250,000.
 
 alexandra.com08@gmail.com
