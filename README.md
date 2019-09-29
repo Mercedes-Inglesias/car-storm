@@ -1,9 +1,8 @@
 # Car-storm 2019
-luxurious babies
 
+Here's the list of some luxurious babies of 2019
 1. Rolls -Royce Phantom VIII
 2. Mercedes S Class
-![pictures](https://github.com/Mercedes-Inglesias/car-storm/blob/master/untitled.png)
 3. Range Rover
 4. Bentley Mulsanne
 5. Porsche Panamera
@@ -26,9 +25,12 @@ The 2019 Mercedes-Benz S-Class ranked *#1 in Super Luxury Cars*. Currently the M
 Pros|Cons
 ---|---:
 World-class interior|Small trunk in coupe and convertible models
-Unbelievably comfortable seats and ride|
+Unbelievably comfortable seats and ride|high price
 Extravagant features list|
 Powerful engines|
+
+here's the convertible verson 
+![pictures](https://github.com/Mercedes-Inglesias/car-storm/blob/master/untitled.png) 
 
 __How Much Does the Mercedes-Benz S-Class Cost?__
 Even by super luxury car standards, the S-Class is expensive. Its base price of around $91,000 is more than almost every competitor. Compared to the higher S-Class trims, that's downright cheap. For example, the most expensive model in the lineup is the AMG S 65 cabriolet, which starts a few lattes north of $250,000.
