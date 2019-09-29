@@ -12,9 +12,11 @@ luxurious babies
 9. Jaguar XJ
 10. Lexus LS
 
+*Let's take a look at one of my favourites :3* 
+
 ## 2019 Mercedes-Benz S-Class 
-![Mercedes](https://cars.usnews.com/cars-trucks/mercedes-benz/s-class/2019/photos-exterior) 
-![Mercedes](https://carbuzz.com/cars/mercedes-benz/s-class-cabriolet)
+![Mercedes](https://www.google.ru/url?sa=i&rct=j&q=&esrc=s&source=images&cd=&ved=2ahUKEwi6hpWf3vXkAhUG0aYKHRCwC7UQjRx6BAgBEAQ&url=https%3A%2F%2Fwww.autotrader.com%2Fcar-reviews%2F2019-mercedes-benz-s-class-review-281474979915239&psig=AOvVaw1y9B_1bhk3VZMmETX2l9iJ&ust=1569836324530793) 
+![Mercedes](https://www.google.ru/url?sa=i&rct=j&q=&esrc=s&source=images&cd=&ved=2ahUKEwiLgsTJ3vXkAhWsxaYKHf_vCBsQjRx6BAgBEAQ&url=https%3A%2F%2Fwww.kengarff.com%2Finventory%2F2019-mercedes-benz-s-class-s-450-awd-4matic-4dr-car-wddug6eb8ka464909&psig=AOvVaw1y9B_1bhk3VZMmETX2l9iJ&ust=1569836324530793)
 
 The 2019 Mercedes-Benz S-Class ranked *#1 in Super Luxury Cars*. Currently the Mercedes-Benz S-Class has a score of __9.1__ out of __10__ which is based on our evaluation of 40 pieces of research and data elements using various sources.
 
